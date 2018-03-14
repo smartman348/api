@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/database/migrations/2018_03_14_083458_create_reviews_table.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/app/Http/Controllers/ReviewController.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/app/Http/Controllers/ProductController.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/routes/api.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/.gitignore</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/app/Model/Product.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/readme.md</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/database/migrations/2018_03_14_083420_create_products_table.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/.env</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/app/Model/Review.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/database/factories/ModelReviewFactory.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/database/factories/ModelProductFactory.php</file>
+            <file>file:/D:/PHP_PROJECT/Apache/htdocs/eapi/app/Providers/AppServiceProvider.php</file>
+        </group>
+    </open-files>
+</project-private>
